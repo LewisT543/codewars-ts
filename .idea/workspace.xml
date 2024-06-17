@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e906543-bbd6-44d5-84b7-f808c9d2f86f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars-ts.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu5/beeramid.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu5/hexStringToRGB.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu6/countTheSmileys.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu6/dashatizeIt.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu6/digitalRoot.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu6/encryptThis.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu6/helpTheBookseller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu6/meetings.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu6/mexicanWave.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu6/towerOfCubes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kyu5/weightForWeight.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1718442768399</updated>
       <workItem from="1718442769453" duration="11051000" />
-      <workItem from="1718533544953" duration="7499000" />
+      <workItem from="1718533544953" duration="8266000" />
+      <workItem from="1718616035197" duration="1948000" />
     </task>
     <servers />
   </component>
