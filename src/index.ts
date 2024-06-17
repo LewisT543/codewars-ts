@@ -9,6 +9,7 @@ import {mexicanWave} from "./kyu6/mexicanWave";
 import {beeramid} from "./kyu5/beeramid";
 import {hexStringToRGB} from "./kyu5/hexStringToRGB";
 import {determinantOfMatrix} from "./kyu4/determinantOfMatrix";
+import {Vector} from "./kyu5/vector";
 
 // console.log(stockList(["BBAR 150", "CDXE 515", "BKWR 250", "BTSQ 890", "DRTY 600"], ["A", "B", "C", "D"]))
 // console.log(countSmileys([':)',':(',':D',':O',':;']))
@@ -20,4 +21,7 @@ import {determinantOfMatrix} from "./kyu4/determinantOfMatrix";
 // console.log(mexicanWave('Two words'))
 // console.log(beeramid(5000, 3))
 // console.log(hexStringToRGB())
-console.log(determinantOfMatrix([[2, 5, 3], [1, -2, -1], [1, 3, 4]]))
+// console.log(determinantOfMatrix([[2, 5, 3], [1, -2, -1], [1, 3, 4]]))
+const vect1 = new Vector([1, 2, 3])
+const vect2 = new Vector([4, 5, 6])
+console.log(vect1.add(vect2))
