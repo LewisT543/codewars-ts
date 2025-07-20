@@ -20,6 +20,8 @@ import {Connect4} from "./kyu5/connect4";
 import {isInteresting} from "./kyu4/carMileageNumbers";
 import {unflatten} from "./kyu4/unflattenAList";
 import {interpreter} from "./kyu4/customPaintfuckInterpreter";
+import {sumOfIntervals} from "./kyu4/sumOfIntervals";
+import {calculate} from "./kyu4/routeCalculator";
 
 
 // console.log(stockList(["BBAR 150", "CDXE 515", "BKWR 250", "BTSQ 890", "DRTY 600"], ["A", "B", "C", "D"]))
@@ -55,4 +57,12 @@ import {interpreter} from "./kyu4/customPaintfuckInterpreter";
 // c4.printBoard()
 // console.log(isInteresting(98, []))
 // console.log(unflatten([4, 5, 1, 7, 1], 2))
-console.log(interpreter("*[s[e]*]", 49, 5, 5))
+// console.log(interpreter("*[s[e]*]", 49, 5, 5))
+// console.log(sumOfIntervals([
+//   [1, 5],
+//   [10, 20],
+//   [1, 6],
+//   [16, 19],
+//   [5, 11]
+// ]))
+console.log(calculate("1+1$1*1*9+2.5"))

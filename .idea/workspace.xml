@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e906543-bbd6-44d5-84b7-f808c9d2f86f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/kyu4/carMileageNumbers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu4/customPaintfuckInterpreter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu4/smallestPossibleSum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu4/twiceLinear.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu4/unflattenAList.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu5/connect4.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kyu5/rot13.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kyu4/routeCalculator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kyu4/sumOfIntervals.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kyu5/hexStringToRGB.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -43,23 +40,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/git/jsAndTsProjects/codewars-ts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater",
-    "ts.external.directory.path": "C:\\git\\jsAndTsProjects\\codewars-ts\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/git/Scala/codewars-scala&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\git\\jsAndTsProjects\\codewars-ts\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="scratch_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
@@ -81,7 +79,15 @@
       <workItem from="1718442769453" duration="11051000" />
       <workItem from="1718533544953" duration="8266000" />
       <workItem from="1718616035197" duration="3275000" />
-      <workItem from="1723975641761" duration="29085000" />
+      <workItem from="1723975641761" duration="29605000" />
+      <workItem from="1724085157355" duration="12554000" />
+      <workItem from="1725880479112" duration="6000" />
+      <workItem from="1729012550226" duration="3458000" />
+      <workItem from="1731759807273" duration="1505000" />
+      <workItem from="1732901530671" duration="261000" />
+      <workItem from="1732901816354" duration="568000" />
+      <workItem from="1732902649778" duration="586000" />
+      <workItem from="1732903862090" duration="2000" />
     </task>
     <servers />
   </component>
